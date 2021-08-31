@@ -1,2 +1,12 @@
 # matlab_class
- 
+
+This repository is for CE640/OC512 at Oregon State University. Each week, you will find a series of scripts (.m) files and live scripts (.mlx) files for use during class and also (most weeks) a homework assignment. 
+
+**Engineering Accounts**
+If you have not yet done so, you should get and engineering account. Why? Well, to log in to the computers in Owen Hall, you will need one. Those of you who are engineering students already have one. Those of you who are not will need to get one. You can get one at https://teach.engr.oregonstate.edu. Now, when using an engineering account, your work can be stored on your engineering 'stak' space (i.e., your 'Z' drive). If you wish to leave all of your work here and then access it remotely, you can do so by mapping the network drive. Instructions are at: https://it.engineering.oregonstate.edu/accessing-engineering-file-space. 
+
+**Your Matlab Options**
+A great resource summarizing your options for using Matlab is here: https://it.engineering.oregonstate.edu/matlab. To briefly summarize...YES, you can download a version onto your own personal computer. YES, you can use a computer provided to you by your graduate adviser. And YES, you can come to campus and use a computer lab. A decent list of engineering computer labs is here: https://it.engineering.oregonstate.edu/computer-labs. As a final note, you can use Citrix. Think of this as a ‘remote desktop’ approach. It is not a local download of Matlab onto your personal computer. Rather, you are launching an instance of Matlab remotely. The good thing about this is that it will know if your ENGR account is enabled and it will launch in your Z drive. For information on how to use Citrix, go here: https://it.engineering.oregonstate.edu/citrix. 
+
+**Slack Account**
+I would like to try using Slack this term as a way to stay in touch. The message boards in Canvas are awkward, and that is being kind. Using Slack is optional, and I will still monitor Canvas. To create an account, go here: https://slack.com/get-started#/createnew. Once you have an account in slack, please visit this link to join the workspace for this class: https://join.slack.com/t/osuhillclasses/shared_invite/zt-v8tg4vv5-aWkrcWcI_otI06aJimePaA. Slack is pretty easy and intuitive, but a brief tutorial is here: https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide. Learn to use threads! That is the BEST way to keep discussions organized and on point.
