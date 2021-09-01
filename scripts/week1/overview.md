@@ -140,4 +140,53 @@ ans =
 
      2
 
-and we recover the value assigned to a. Well, this is all nice, but in the real world, we are going to be doing a lot of complex analysis and computation, so we do NOT want to have to re-type things into the command line all the time.  So, we can put commands into a ‘script,’ which is a simple text file, with a .m subscript.  For example, consider the following
+and we recover the value assigned to a. Well, this is all nice, but in the real world, we are going to be doing a lot of complex analysis and computation, so we do NOT want to have to re-type things into the command line all the time.  So, we can put commands into a ‘script,’ which is a simple text file, with a .m subscript.  For example, consider the following code, which I have already saved as a file (or 'script' or 'm-file') called [simple.m](https://github.com/dfosterhill/matlab_class/blob/main/scripts/week1/simple.m). 
+
+%%%%%%  
+%This is a really simple script  
+% 2013 – D. Hill  
+%%%%%%
+
+a=2  
+b=3  
+a*b  
+%%%%%%
+
+If I type this text into the Matlab text editor, or any text editor and then save it as a file called ‘simple.m’ (w/o the quotes), I have just created a script. Note, in Matlab the % symbol is the comment symbol. Anything to the right of it (on that line) is not executed. So, to run this script, I simply navigate, in the Matlab window, to the folder where I saved it and then I type
+
+\>simple  (leave out the .m)
+
+When you do this, you should see the output:
+
+a =
+
+     2
+  
+b =
+
+     3
+  
+ans =
+
+     6
+
+So, you see that our two variables got defined and we did some simple math. Now, since this was a simple script the output was relatively uncluttered. However, in a real situation, we do NOT want all of the internal steps written out as screen output. So, you need to learn to love the semicolon. NOTE: the semicolon has many, many very important uses in Matlab. If you go back to [simple.m](https://github.com/dfosterhill/matlab_class/blob/main/scripts/week1/simple.m) and place semi-colons at the ends of the first two lines, i.e. do this: 
+
+%%%%%%  
+%This is a really simple script  
+% 2013 – D. Hill  
+%%%%%%
+
+a=2;  
+b=3;  
+a*b  
+%%%%%%
+
+you will get the following output:
+
+ans =
+
+     6
+     
+That's it for this week...welcome to the class...     
+     
