@@ -62,3 +62,82 @@ and you will see that you can access demos by simply typing:
 ![demo](https://github.com/dfosterhill/matlab_class/blob/main/images/demo.png) 
 
 Here, a great number of (official) examples are categorized. Click on the ‘Basic Matrix Operations’ one to see one. A final place for you to explore is [Matlab Central](https://www.mathworks.com/matlabcentral/).
+
+## Command Line Commands
+
+Since we will be spending so much time ‘at the command line,’ it is worth saying a few things about it.  For anyone with a background in DOS or UNIX, this will be very comfortable terrain. A command line is a way that you can ‘do things’ with typed commands (in contrast to mousing and clicking). For example, you see the path, given right above the command window? Well, say I want to navigate ‘up’ one directory level? You can do this (several ways) with mouse clicks. Or, you can use a command line command, namely cd (‘change directory’)
+
+\> cd ..
+
+To get back to where you were (your home), use
+
+\>cd MATLAB 
+
+(or lower case matlab; here Matlab does not distinguish)
+
+You can list your present directory with (‘print working directory’)
+
+\>pwd
+ans =
+
+/Volumes/Mac_HD_2/dfh/Documents/MATLAB
+
+Here, I have shown the output of the pwd command. Note the presence of ‘ans’ which stands for answer. Often, if you execute a command without assigning the output to a variable, Matlab will assign the output (in this case, the name of the present directory) to the variable ans.
+
+You can show a directory listing with ls (short for ‘list’)
+
+\>ls
+
+TMD2.03		modulation.txt	scatter2.dat		untitled folder
+data2.out		scalebar		startup.m
+m_map		scatter.dat		tmp_tpxo6.2.mat
+
+Here, the folders and the files are listed together, so it may not be immediately obvious to you which is which. You can use options with this command, and many others. Adding –a after the ls lists ‘all’, including typically hidden files. Adding –l after the ls will give you a more verbose listing (including file size, date last modified, etc.).
+
+Another thing that is pretty neat, and that is common with UNIX is the retention of your command history. If you are using the default window layout, you will see your command history in the lower right. You can right click on any command and select ‘evaluate selection.’ This is a great way of repeating a command that you might have typed previously at the command line. Less typing!! Depending upon your keyboard configuration, you can also cycle through your previous command with the up and down arrows.
+
+![history](https://github.com/dfosterhill/matlab_class/blob/main/images/history.png) 
+
+You will have to spend some time learning all of the various command line commands. Many are common with UNIX, some are not. For example, you use
+
+\>rm
+
+in UNIX to remove a file. In matlab, you use the 
+
+\>delete
+
+command. CAUTION: depending upon your preferences settings, there may not be an ‘undo’ to this (there is NOT in UNIX). So, this is very different from moving things to the ‘trash.’
+
+## Command Line vs. Scripts
+
+Ok, so the command line is powerful. You can do a lot from it. For example, say we want to assign some numeric values to some variables (much more on variable types later (week 2)).
+
+\>a=2
+
+\>b=3
+
+Great, we now have assigned values to the variables a and b. NOTE: you should see them appear in your ‘workspace’ window. Well, now we can do some math
+
+\>a*b
+
+ans =
+
+     6
+
+or, we can instead divide:
+
+\>a/b
+
+ans =
+
+    0.6667
+
+You can see that the output of the mathematical operation is being assigned to the (default) variable called ans. This is a real variable. To see this, multiply it by b
+
+\>ans*b
+
+ans =
+
+     2
+
+and we recover the value assigned to a. Well, this is all nice, but in the real world, we are going to be doing a lot of complex analysis and computation, so we do NOT want to have to re-type things into the command line all the time.  So, we can put commands into a ‘script,’ which is a simple text file, with a .m subscript.  For example, consider the following
