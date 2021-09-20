@@ -31,11 +31,11 @@ This course will provide an introduction to the numerical computing and graphics
 OSU has policies regarding what is considered academic misconduct. Since these policies are frequently updated, you should review them on a term-by-term basis at http://studentlife.oregonstate.edu/studentconduct/offenses-0. The biggest problem I run into is that students copy code from a classmate or they find solutions from a previous year and they pass off that work as their own. Please do not do this, as you don't learn anything that way.
 
 **How to Get Help**
-•	Ask your friends (or others)
-•	Online help – Matlab Central (http://www.mathworks.com/matlabcentral/) is a great place to start.
-•	Demos – Online or at the command prompt.
-•	Texts (see first page)
-•	Ask me
+* Ask your friends (or others)
+* Online help – Matlab Central (http://www.mathworks.com/matlabcentral/) is a great place to start.
+* Demos – Online or at the command prompt.
+* Texts
+* Ask me
 
 **Tentative Weekly Schedule**
 1. Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
