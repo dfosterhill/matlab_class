@@ -50,16 +50,12 @@ isinteger(t2)
 clear all
 %% 
 % Note that I use clear a lot, just to clean up the workspace. Let us now talk 
-% about a matrix. Note: a single element (a scalar) is treated as a 1 x 1 matrix. 
-% Matlab matrices are 'ordered' as:
-% 
-% 
-% 
-% In other words, row then column, with indexing starting at '1'.
+% about a matrix. Note: a single element (a scalar) is treated as a 1 x 1 matrix.
 
 home
 A = rand(5,3)
 size(A)
+
 %% 
 % If we think of this as an observational data matrix (from an experiment), 
 % we could think about the columns representing various variables that we observe 
@@ -113,7 +109,7 @@ A=rand(8,3)
 
 A(1,3)
 A(3,2)
-A(10,10)
+%A(10,10)
 %% 
 % So, hold one, what went wrong with that last attempt? As you will see, the 
 % execution of this 'section' crashed. So, put a comment symbol (%) in front of 
