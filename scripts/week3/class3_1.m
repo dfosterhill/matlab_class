@@ -128,7 +128,9 @@ global scale offset
 scale=9/5;
 offset=32;
 TF=cent2fahr_v4(10)
-scale        %oops, what happened?
+scale        %oops, what happened? Changed the variable since it is global,
+% it can be chnaged by functions, since it can be accessed by all
+% functions.
 
 %% BLOCK 3.4
 
@@ -144,7 +146,8 @@ TF=cent2fahr_v3(TC,scale_factor,offset_factor);
 figure(1)
 plot(TC,TF)
 xlabel('t (C)'); ylabel('t (F)');
-
+% Can pass in vetcors, matrices, and variables interchangeably to
+% functions.
 %% BLOCK 3.5
 
 %you can also use 'anonymous' functions. Rather than being saved as
@@ -155,17 +158,21 @@ xlabel('t (C)'); ylabel('t (F)');
 
 tc=10;
 c2f=@(TC) TC*scale_factor+offset_factor;
+c2f_v2=@(TC,scale_factor,offset_factor) TC*scale_factor+offset_factor;
 
 %ok, so the line above DEFINES the function. c2f is the name. The @(TC) is
 %essentially defining the 'input' variable (TC). Then there is a space,
 %then there is the actual equation of the function.
 
 TF_anonymous=c2f(tc)
+TF_anonymous_v2=c2f_v2(tc,9/5,32)
 
 %the line above 'calls' the function by writing the fuction name and
 %sending in an argument.
 
-%does this work on vector input?
+%does this work on vector input? It works exactly the same, the output is
+%no different 
+
 tc=0:100;
 tf=c2f(tc);
 figure(2)
