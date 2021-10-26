@@ -73,7 +73,7 @@ B = rand(70, 40);
 
 % not good. Here we are doing a double loop.
 tic
-C = zeros(100,40);
+C = zeros(100,40); 
 for i = 1: size(A,1)
     for j = 1: size(B,2)
         for k = 1: size(A,2)
