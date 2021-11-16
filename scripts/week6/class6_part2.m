@@ -44,7 +44,7 @@ LB = repmat([0 0 0], 3, 1);
 %amazing things with bad initial guesses. Here, I am going to guess
 %starting values of 1 for all three parameters and for all three gaussians.
 
-guess=ones(3,3)
+guess=ones(3,3)*.1
 
 betaFitbounded = lsqcurvefit('multgauss', guess, x, y, LB, UB)
 yestbound=multgauss(betaFitbounded,x);
