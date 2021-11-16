@@ -5,10 +5,12 @@
 % update 2021
 %%%%%%%
 
+%%
 %make some data
 x=1:1:10
 y=x.^2
 
+%%
 %make a plot
 plot(x,y,'r')
 hold on

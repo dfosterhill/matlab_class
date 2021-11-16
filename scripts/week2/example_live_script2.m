@@ -19,7 +19,7 @@
 
 %define the parameters
 V = 10.2 
-theta = 81
+theta = 45
 g = 9.81;    %gravity in SI units
 %solve for final time
 tf=2*V*sind(theta)/g;
