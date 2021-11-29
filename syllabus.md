@@ -39,12 +39,12 @@ OSU has policies regarding what is considered academic misconduct. Since these p
 
 **Tentative Weekly Schedule**
 1. Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
-2. Data types and arrays, strings, cells, structures
+2. Data types and arrays, strings, cells, structures, scripts vs. live scripts
 3. m-files, functions, for loops, while loops, if statements, and so on
-4. Debugging, profiling, good coding practices
-5. File input and output, ascii, binary, tables, etc.
-6. Ooooo....pretty graphics
-7. Curve fitting and parameter estimation
-8. Techniques for solving differential equations (numerically)
-9. Time series analysis, detrending, outlier detection, filtering
+4. File input and output, ascii, binary, tables, etc.
+5. Ooooo....pretty graphics
+6. Curve fitting and parameter estimation
+7. Techniques for solving differential equations (numerically)
+8. Time series analysis, detrending, outlier detection, filtering
+9. Mapping stuff, projections, etc.
 10. NetCDF, metadata, code version control, etc.
