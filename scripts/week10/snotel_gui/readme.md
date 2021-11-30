@@ -1,0 +1,1 @@
+Open up and run the snotel_select.m script. It takes a few moments to load the data, but it will open up a GUI allowing you to select a state and a snotel station...then you can view the climatological norms in temp, SWE, density, etc....pretty nice.
