@@ -11,8 +11,8 @@ clc
 fclose('all')
 
 %name of file with snotel station info
-fname1='../snotelstationinfo.mat';
-fname2='../snotelstationdata.mat';
+fname1='snotelstationinfo.mat';
+fname2='snotelstationdata.mat';
 
 load(fname1);  %loads a structure called station
 load(fname2);   %loads a structure called snoteldata
