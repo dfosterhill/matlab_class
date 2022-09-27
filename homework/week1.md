@@ -1,5 +1,6 @@
-Ok, this one is easy. All I want you to do is to log in to github.com. Create a repository for yourself. Think of this repository as the place where you will store all of your scripts for this term. Initialize the repository with a readme.md file. This 'readme' file is a simple file that explains the point of a repository. 
-
-Once you have done that, it would be awesome if you could use GitHub Desktop (or git at the command line; LMK if you want to learn that option) to 'clone' the repository to wherever it is that you would like to work. This could be to your personal computer, it could be to the z: space you have on the engineering computers, it is up to you.
+1. Ok, this one is easy. All I want you to do is to log in to github.com. Create a repository for yourself. Think of this repository as the place where you will store all of your scripts for this term. Initialize the repository with a readme.md file. This 'readme' file is a simple file that explains the point of a repository. Once you have done that, it would be awesome if you could use GitHub Desktop (or git at the command line; LMK if you want to learn that option) to 'clone' the repository to wherever it is that you would like to work. This could be to your personal computer, it could be to the z: space you have on the engineering computers, it is up to you.
+2. Also, if you have not yet done so, please do something on Slack. Reply to a thread, send me a quick DM, just take a minute or two and familiarize yourself with the interface.
+3. If you did not yet do this in class, please clone the class repository to wherever you plan to do your work. Remember, each week, you do a *pull* to get the new files.
+4. Finally, make an account at mathworks.com. This will allow you to access (download) things from the File Exchange, etc.
 
 Nothing to turn in here, nothing to grade, but please do this in advance of next Tuesday's class.
