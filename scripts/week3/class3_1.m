@@ -212,7 +212,7 @@ title('Computed with Anonymous Function')
 %should return two values (x1 and x2). Note, all of the above examples
 %returned only one argument, since they were written like:
 
-% function output = function(input1, input2, ....., input_n)
+% function output = functionname(input1, input2, ....., input_n)
 
 % you can generalize this in the following way:
 
