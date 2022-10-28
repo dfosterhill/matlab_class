@@ -3,6 +3,10 @@
 %dfhill
 %oregon state university...
 
+clear all
+close all
+clc
+
 %this mfile will define the paramters (amplitudes, standard deviations, locations)
 %of numerous bell-curves (gaussian profiles). It will then call a function
 %that will sum those together.
@@ -18,7 +22,11 @@ beta=[amps Cs sigmas];
 %call multgauss, which will return the sum of the gaussians.
 y=multgauss(x,beta);
 
-%plot the result
-figure(1)
-plot(x,y)
-xlabel('x');ylabel('y');title('sum of 4 gaussians')
+if sum(isnan(y))==length(x)
+    disp('Be sure to submit the correct number of input parameters')
+else
+    %plot the result
+    figure(1)
+    plot(x,y)
+    xlabel('x');ylabel('y');title('sum of 4 gaussians')
+end

@@ -3,11 +3,12 @@ function [ yout ] = multgauss( x,beta )
 %beta matrix contains amp, C, and sigma in columns
 
 %intialize output vector
-yout=zeros(size(x))
+yout=zeros(size(x));
 
 %perform simple error checking; break if not the correct (3) number of columns
 if size(beta,2)~=3
-    Disp('Input matrix has incorrect number of columns.')
+    disp('Input matrix has incorrect number of columns.')
+    yout=yout*NaN; %do this to flag as incorrect output.
     return
 else
     %loop over the number of rows
