@@ -1,17 +1,17 @@
+%quick exercise to integrate equations of pendulum motion
 clear all 
 close all
 %set the initial conditions
-Y10=0.5;
-Y20=0;
-%set the domain rainge
+Y10=0.5; %displacement in radians
+Y20=0;  %angular velocity in radians / sec
+%set the domain range
 xspan=[0,4];
 %create vector of initial conditions
 Y0=[Y10 Y20];
 
 %constants
-p=[9.81 1];
-%solve it! Note that I am using a function that I wrote and that is
-%supplied with the notes for this week.
+p=[9.81 1]; %gravity (m/s2) and length (m)
+%solve it! 
 [x,y]=ode45(@pendulum2,xspan,Y0,[],p);
 figure(1)
 plot(x,y)
