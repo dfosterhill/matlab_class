@@ -6,5 +6,9 @@ Before we go too far, though, what is up with these files that we are looking at
 
 ![toc](../../images/toc.jpg)
 
+If you click on the three bars in the upper right, you will open up the handy table of contents for the given .md file that you are looking at. Here is just an example:
+
+![toc2](../../images/toc2.jpg)
+
 ## GitHub Introduction
 Well, if you are reading this file, you already know a bit about GitHub. Why are we here? Great question, let's go to this [introduction](github_intro.md) and learn about it.
