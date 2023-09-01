@@ -14,3 +14,11 @@ Ok. Well, first of all, this is not a very good way to ask for help. The person 
 Since this question was not asked in the best way, the poser of the question might get an unhelpful reply such as the following. Note that this has now created a thread, rather than starting a new post.
 
 ![slack4](../../images/slack4.png)
+
+So, let's say that the person asked a more well-thought-out question about their code, such as the following. Note: you can use features like code block to visually distinguish code from question.
+
+![slack5](../../images/slack5.png)
+
+And, generally speaking, well-asked questions are like to get more helpful and targeted responses such as:
+
+![slack6](../../images/slack6.png)
