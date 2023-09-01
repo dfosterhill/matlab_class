@@ -3,6 +3,7 @@ Welcome to Week1 of CE640 / OC512. Before we get started, please ensure that you
 
 ## Markdown
 Before we go too far, though, what is up with these files that we are looking at? The .md file extension? These are called markdown files. I don't want to dwell too much on them, but they are a nice way of creating attractive and well-organized documents. You can create hyperlinks and other things. One thing that may be useful for you to know is that markdown files can have nice tables of contents. To access this, look at the upper right of this window and you will see this:
+
 ![toc](../../images/toc.jpg)
 
 ## GitHub Introduction
