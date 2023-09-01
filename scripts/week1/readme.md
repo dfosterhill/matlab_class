@@ -15,5 +15,8 @@ Clicking on the x in the upper right will close the table of contents.
 ## GitHub Introduction
 Ok, great. Well, if you are reading this file, you already know a bit about GitHub. Why are we here? Great question, let's go to this [introduction](github_intro.md) and learn about it.
 
+## Slack Introduction
+Let's just take a few minutes to talk about [Slack](slack.md) and why it will be useful to you to use it this term.
+
 ## Matlab Introduction
 Ok, well, our remaining task today is to learn a bit about the Matlab environment. So, head on over [here](matlab_overview.md) and let us do that!
