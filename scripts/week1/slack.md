@@ -10,3 +10,7 @@ Note that there are several *channels* for you to choose from. Let's say that so
 Ok. Well, first of all, this is not a very good way to ask for help. The person just threw up code and said it didn't work. But, they didn't give any indication that they had thought about why it didn't work. They didn't give any indication that they had tried things X, Y, and Z to fix the code. And so on. So, say your wanted to reply to this question. PLEASE use threads. Hover over the post and choose the *bubble* icon to reply.
 
 ![slack3](../../images/slack3.png)
+
+Since this question was not asked in the best way, the poser of the question might get an unhelpful reply such as the following. Note that this has now created a thread, rather than starting a new post.
+
+![slack4](../../images/slack4.png)
