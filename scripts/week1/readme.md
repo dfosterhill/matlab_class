@@ -1,2 +1,2 @@
 ## Matlab Programming Class
-Welcome to Week1 of CE640 / OC512. Before we get started, please ensure that you have looked at the main [readme](../../README.md) file.
+Welcome to Week1 of CE640 / OC512. Before we get started, please ensure that you have looked at the main [readme](../../README.md) file. That file contains some basic information about how to access Matlab, Slack, and Github. Next, please ensure that you have looked at the [syllabus](../../syllabus.md) for this class. The syllabus has a lot of basic information, such as my contact information (and location), class policies, and other items.
