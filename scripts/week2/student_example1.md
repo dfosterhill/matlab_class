@@ -9,7 +9,7 @@ You can make 3-d (or higher) matrices in Matlab. Think of a 'cube' of data made 
 3 & 1 
 \end{bmatrix}
 ```
-
+`B(:,:,1)=[4 2; 3 1]`
 * For the second time slice, use the following values:
 ```math  
 \begin{bmatrix}
@@ -19,7 +19,7 @@ You can make 3-d (or higher) matrices in Matlab. Think of a 'cube' of data made 
 ```
 
 * And, for the third time slice, use the following:
-```  
+```math  
 \begin{bmatrix}
 12 & 9 \\
 11 & 10 
