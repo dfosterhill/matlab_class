@@ -11,7 +11,7 @@ Ok, so your basic *script* is an .m file, which is just a simple text file. We c
 5. Save this as a .m file. Call it *example_simple_script2.m*. Open it up. Run it. This is pretty disappointing. So, live scripts, with fancy features (like controls) will not convert to equivalent .m files. BUT...it does look like something interesting has happened with the weblinks and the equations...So, for one final test, take this .m file and save it as a live script...call it *test.mlx* or something like that. Now, when you open this up, you will find that the equations and hyperlinks have been recovered, but NOT the controls. 
 
 ## Numbers, Vectors, and Matrices
-Open up *class2_1.m*. We will run through this section by section. It is all about how numeric data is stored in variables. Knowing where data are and how to access individual elements is critical.
+Open up [class2_1.m](class2_1.m). We will run through this section by section. It is all about how numeric data is stored in variables. Knowing where data are and how to access individual elements is critical.
 
 ## Other Data Types
 Open up *class2_2.m*. We will look at strings, cell arrays, character arrays, and structures. As you will see, there are MANY options for how data are stored. There is no *right* way, there are just pros and cons. 
