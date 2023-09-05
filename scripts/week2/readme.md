@@ -16,4 +16,4 @@ Open up [class2_1.m](class2_1.m). We will run through this section by section. I
 Let's take a break and do [Example 1](student_example1.md), to give you some hands on practice.
 
 ## Other Data Types
-Open up *class2_2.m*. We will look at strings, cell arrays, character arrays, and structures. As you will see, there are MANY options for how data are stored. There is no *right* way, there are just pros and cons. 
+Open up [class2_2.m](class2_2.m). Let us finish up some further work on arrays.
