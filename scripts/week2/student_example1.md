@@ -26,5 +26,5 @@ You can make 3-d (or higher) matrices in Matlab. Think of a 'cube' of data made 
 \end{bmatrix}
 ```
 ## Additional Tasks
--Experiment with the 'sum' command on this matrix. Can you sum over all three dimensions? Experiment and check the math manually to convince yourself that you understand how the sum command actually works.
--Experiment with the difference between addressing with indices vs subscripts. For example, how do you 'access' the information stored in the location where the '9' is. Can you do this with subscripts? How many subscripts do you need? Can you do this with an index? Look at the help menu for ind2sub and see if you can print out the subscripts and also the value of the number located at the 11th location (index) of this 3-d matrix.
+* Experiment with the 'sum' command on this matrix. Can you sum over all three dimensions? Experiment and check the math manually to convince yourself that you understand how the sum command actually works.
+* Experiment with the difference between addressing with indices vs subscripts. For example, how do you 'access' the information stored in the location where the '9' is. Can you do this with subscripts? How many subscripts do you need? Can you do this with an index? Look at the help menu for ind2sub and see if you can print out the subscripts and also the value of the number located at the 11th location (index) of this 3-d matrix.
