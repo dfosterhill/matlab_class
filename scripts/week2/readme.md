@@ -21,3 +21,4 @@ Open up [class2_2.m](class2_2.m). Let us finish up some further work on arrays.
 Ok, head over to [Example 2](student_example2.md) and give it a try.
 
 ## Strings, Cells, Structures
+Finally, open up [class2_3.m](class2_3.m). Here, we look at how we can store information OTHER than numbers. 
