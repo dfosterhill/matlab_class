@@ -9,3 +9,8 @@ So, let's start off by opening up [class3_1.mlx](class3_1.mlx). Note that this i
 Next, let's have you do this [example](student_example1.md) exercise before we continue.
 
 ## Functions
+A *function* is simply a piece of code that performs a certain task. Matlab is full of zillions of 'built-in' or 'included' functions. Sometimes, however, you may wish to write your own function. A well-written function is one that is clearly documented so that the user can understand inputs, outputs, and so on. 
+
+Let's tackle this topic by opening up [class3_2.m](class3_2.m). Note that this will make use of several additional .m files that are in the repository.
+
+And, we'll finish off today's class by having you do this [example](student_example2.md).
