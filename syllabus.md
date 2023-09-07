@@ -38,9 +38,9 @@ OSU has policies regarding what is considered academic misconduct. Since these p
 * Ask me
 
 **Tentative Weekly Schedule**
-1. Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...
-2. Data types and arrays, strings, cells, structures, scripts vs. live scripts
-3. m-files, functions, for loops, while loops, if statements, and so on
+1. [Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...](scripts/week1/readme.md)
+2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts](scripts/week2/readme.md)
+3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
 4. File input and output, ascii, binary, tables, etc.
 5. Ooooo....pretty graphics
 6. Curve fitting and parameter estimation

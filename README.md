@@ -1,6 +1,8 @@
 # matlab_class
 
-This repository is for CE640/OC512 at Oregon State University. Each week, you will find a series of scripts (.m) files and live scripts (.mlx) files for use during class and also (most weeks) a homework assignment. 
+This repository is for CE640/OC512 at Oregon State University. Each week, you will find a series of scripts (.m) files and live scripts (.mlx) files for use during class and also (most weeks) a homework assignment. In each week's folder in the scripts folder, please start with the readme.md file located there.
+
+Most of what follows below is relevant only to OSU students. Those students, and other interested people, should next turn to the [syllabus](syllabus.md).
 
 **Engineering Accounts**
 If you have not yet done so, you should get and engineering account. Why? Well, to log in to the computers in Owen Hall, you will need one. Those of you who are engineering students already have one. Those of you who are not will need to get one. You can get one at https://teach.engr.oregonstate.edu. Now, when using an engineering account, your work can be stored on your engineering 'stak' space (i.e., your 'Z' drive). If you wish to leave all of your work here and then access it remotely, you can do so by mapping the network drive. Instructions are at: https://it.engineering.oregonstate.edu/accessing-engineering-file-space. 
