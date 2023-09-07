@@ -5,11 +5,11 @@ ax^{2} + bx + c = 0.
 ```
 The solutions to the quadratic formula are:
 ```math
-x1 = \frac{[-b + sqrt(b^2 - 4ac)]}{2a}
+x1 = \frac{[-b + \sqrt{b^2 - 4ac}]}{2a}
 ```
 and
 ```math
-x2 = \frac{[-b - sqrt(b^2 - 4ac)]}{2a}
+x2 = \frac{[-b - \sqrt{b^2 - 4ac}]}{2a}
 ```
 So, your function should accept three arguments (a, b, and c). And, it should return two values (x1 and x2). Note, all of the above examples returned only one argument, since they were written like:
 
