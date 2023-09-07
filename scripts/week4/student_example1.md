@@ -1,6 +1,6 @@
 # In-Class Example 1
 Ok, so let's break for a few minutes to do an inclass exercise now that you have a large menu of options available to you. I would like you to create and save a text file (call it whatever you want). The text file should have the following content. Pretend this is some data from a suite of environmental measurement devices. Note that the content in this file is tab-delimited.
-> Sensor1 (deg)    Sensor2 (mmHg)    Sensor3 (m/s)
+> Sensor1 (deg)  Sensor2 (mmHg)  Sensor3 (m/s)
 > 
 > 18    760    8.6
 > 
