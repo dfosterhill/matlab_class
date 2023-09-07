@@ -5,3 +5,5 @@ This week we are going to talk about how to read in data from files, and also ho
 Let's first talk about Matlab functions for reading in data files. There are MANY options. They all have pros and cons and will work in some situations, but not others. I don't care which you use...but you need to develop the expertise so that you can pick the right tool for the job.
 
 Let's start with [this live script](class4_1.mlx). Note that the repository for this week has a whole bunch of files that we will be attempting to read in.
+
+Nice. Now, how about a brief [exercise](student_example1.md) for you to work on?
