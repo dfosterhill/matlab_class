@@ -6,3 +6,6 @@ First, we will talk about [flow control](https://en.wikipedia.org/wiki/Control_f
 
 So, let's start off by opening up [class3_1.mlx](class3_1.mlx). Note that this is a live script, and not a regular m-file.
 
+Next, let's have you do this [example](student_example1.md) exercise before we continue.
+
+## Functions
