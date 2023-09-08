@@ -10,3 +10,5 @@ Nice. Now, how about a brief [exercise](student_example1.md) for you to work on?
 
 ## Output
 Great, now, can we figure out how to *write out* a data file? As was the case with reading in a file, there are sooooo many options to choose from. Some are easy, but not very flexible. Others give you great control over the appearance of the output, but require more care to use. Let us check out the options with this [m-file](class4_2.m).
+
+Great, let's end the day with a short second [exercise](student_example2.md) that will have you write out some data.
