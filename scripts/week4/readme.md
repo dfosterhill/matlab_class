@@ -7,3 +7,6 @@ Let's first talk about Matlab functions for reading in data files. There are MAN
 Let's start with [this live script](class4_1.mlx). Note that the repository for this week has a whole bunch of files that we will be attempting to read in.
 
 Nice. Now, how about a brief [exercise](student_example1.md) for you to work on?
+
+## Output
+Great, now, can we figure out how to *write out* a data file? As was the case with reading in a file, there are sooooo many options to choose from. Some are easy, but not very flexible. Others give you great control over the appearance of the output, but require more care to use. Let us check out the options with this [m-file](class4_2.m).
