@@ -1,4 +1,4 @@
-# matlab_class
+# CE 640 / OC 512 - Matlab Programming
 
 This repository is for CE640/OC512 at Oregon State University. Each week, you will find a series of scripts (.m) files and live scripts (.mlx) files for use during class and also (most weeks) a homework assignment. In each week's folder in the scripts folder, please start with the readme.md file located there.
 
