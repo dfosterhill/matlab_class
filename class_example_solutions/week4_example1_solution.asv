@@ -1,0 +1,24 @@
+% Week 4 - Example 1 - Solution
+
+clear all
+home
+
+%note that running this requires the presence of the file called
+%week4_example1_input.txt, which is a simple text file that this script
+%will read.
+
+%I will try doing this with tables
+T=readtable('week4_example1_input.txt');
+
+LastName={'Hill';'Hill';'Stephenson';'Hill'};
+FirstName={'Chuck';'Constance';'Linda';'Charles'}
+yr=[1939;1940;1965;1970];
+mo={'February';'April';'November';'March'};
+da=[25;8;28;29];
+
+%construct the table
+T=table(LastName,FirstName,yr,mo,da);
+
+%write the table
+writetable(T,'test.txt')
+
