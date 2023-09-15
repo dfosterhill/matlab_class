@@ -3,6 +3,9 @@ This week we are going to talk about graphics. This is a vast topic and we will 
 
 I view the creation of every single figure I make for a journal article as its own *programming task*. I will create one script per figure whose only job is to load in data, make a plot, and then export the figure at a desired resolution and in a desired file format. You want all of these tasks to be fully automated so that, if you ever need to make changes in a figure, it is an easy thing to do!
 
-Let's start with [this live script](class5_1.mlx) in order to explore some of the basics having to do with line plots and also how we make *changes* to the default settings in Matlab graphics. 
+## Different Types of Plots
+Let's start with [this live script](class5_1.mlx) in order to explore some of the basics having to do with line, surface, and volume plots and also how we make *changes* to the default settings in Matlab graphics. 
 
-## 
+Part of the way through that live script, you'll be directed to an [exercise](student_example1.md) to see if you can figure out how to make a simple plot and change some settings of the plot.
+
+## Animations
