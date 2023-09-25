@@ -8,4 +8,5 @@ Let's start with [this live script](class5_1.mlx) in order to explore some of th
 
 Part of the way through that live script, you'll be directed to an [exercise](student_example1.md) to see if you can figure out how to make a simple plot and change some settings of the plot.
 
-## Animations
+## Animations and File Export
+Animations can be very effective. Really...they are just a bunch of still images stitched together. In Matlab, creating animations can be a bit tricky...you have to consider optimal file format (avi? mpg? mp4? omg....) and things like frame rate, and so on. 
