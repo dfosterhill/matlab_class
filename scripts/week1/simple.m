@@ -1,6 +1,6 @@
 %%%%%%
 %This is a really simple script
-% 2013 – D. Hill
+% 2023 – D. Hill
 %%%%%%
 
 a=4
