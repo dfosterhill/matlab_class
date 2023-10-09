@@ -14,3 +14,4 @@ You are going to hypothesize a relationship $y = x ^ {a}$. In other words, your 
 
 
 
+
