@@ -6,7 +6,7 @@ Here is some data:
 >
 > y = [1.0000    1.4142    1.7321    2.0000    2.2361    2.4495    2.6458    2.8284 3.0000    3.1623    3.3166    3.4641    3.6056    3.7417    3.8730    4.0000    4.1231    4.2426    4.3589    4.4721];
 
-You are going to hypothesize a relationship $y = x ^ {a}$.
+You are going to hypothesize a relationship $y = x ^ {a}$. In other words, your proposed model has a single unknown parameter, the exponent $a$. Please use tools like *fit*, and *fittype* to write a short script whole goal is to determine $a$. Good luck!!
 
 
 
