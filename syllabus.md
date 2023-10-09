@@ -12,7 +12,7 @@
 
 *Class Location - 241 Owen Hall*
 
-*Office Hours - Monday 8:30-10:00am.* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
+*Office Hours - TH 10:00 - 11:30 am.* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
 
 **Class Objectives**
 This course will provide an introduction to the numerical computing and graphics environment and programming language, MATLAB, and is intended for beginning graduate students in engineering, oceanography, atmospheric sciences and marine geosciences.  The MATLAB desktop environment will be introduced and basic programming and data analysis skills will be developed, with an emphasis on writing optimized routines to analyze data sets utilizing matrix algebra and vectorization of functions.  Basic graphics and visualization will be covered, including two-dimensional and three-dimensional graphing, contouring and movies. Additional topics covered will include metadata and code versioning. The course will emphasize hands-on computer lab experience during the lecture hours and out of class programming assignments. 
@@ -42,7 +42,7 @@ OSU has policies regarding what is considered academic misconduct. Since these p
 2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts](scripts/week2/readme.md)
 3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
 4. [File input and output, ascii, binary, tables, etc.](scripts/week4/readme.md)
-5. Ooooo....pretty graphics
+5. [Ooooo....pretty graphics](scripts/week5/readme.md)
 6. Curve fitting and parameter estimation
 7. Techniques for solving differential equations (numerically)
 8. Time series analysis, detrending, outlier detection, filtering
