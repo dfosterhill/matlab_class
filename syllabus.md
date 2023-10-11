@@ -43,7 +43,7 @@ OSU has policies regarding what is considered academic misconduct. Since these p
 3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
 4. [File input and output, ascii, binary, tables, etc.](scripts/week4/readme.md)
 5. [Ooooo....pretty graphics](scripts/week5/readme.md)
-6. Curve fitting and parameter estimation
+6. [Curve fitting and parameter estimation](scripts/week6/readme.md)
 7. Techniques for solving differential equations (numerically)
 8. Time series analysis, detrending, outlier detection, filtering
 9. Mapping stuff, projections, etc.
