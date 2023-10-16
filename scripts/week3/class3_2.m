@@ -167,6 +167,9 @@ function Z = multiply_them(X,Y)
 Z = X * Y;
 end
 
+% So, some people prefer this approach, where all of the functions are just
+% located down at the bottom of your main script.
+
 %% In class exercise (15 min)
 
 %I would like you to write a function that solves the quadratic formula. As
