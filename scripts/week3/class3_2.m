@@ -154,6 +154,19 @@ plot(tc,tf)
 xlabel('t (C)'); ylabel('t (F)');
 title('Computed with Anonymous Function')
 
+%% BLOCK 3.7
+% Matlab also has the ability to use the 'regular' function syntax, but,
+% instead of having a separate file, you can simply include the function
+% syntax at the bottom of your script. Let me show you:
+
+a=2;
+b=3;
+theproduct = multiply_them(a,b)
+
+function Z = multiply_them(X,Y)
+Z = X * Y;
+end
+
 %% In class exercise (15 min)
 
 %I would like you to write a function that solves the quadratic formula. As
