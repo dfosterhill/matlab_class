@@ -18,3 +18,12 @@ $$z_{1}=\theta$$
 
 $$z_{2}=\frac{d\theta}{dt}=\frac{dz_{1}}{dt}$$
 
+Numerically integrate this system of equations from $t=0$ sec to $t=4$ sec and plot the displacement angle $\theta$ as a function of time. If you are stuck, remember the first equation is already given to you. It is
+
+$$\frac{dz_{1}}{dt}=z_{2}$$
+
+Your second equation comes from substituting these variable changes into the governing equation and is
+
+$$\frac{dz_{2}}{dt}=-\frac{g}{L}z_{1}$$
+
+Good luck!
