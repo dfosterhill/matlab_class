@@ -11,6 +11,20 @@ Next, try to load the recording into Matlab. You can do this with something like
 [y,fs]=audioread('recording.m4a');
 ```
 y will be a vector containing the data (try to plot it!) and fs will tell you the sampling frequency (in Hz, or cycles per second...it should be a very high number). Your plot will look something like
+
 ![recording](../../images/voice.jpg)
 
-x
+Next, try to play this recording. You can do this with something like
+```
+soundsc(y,fs)
+```
+Nice! Ok, so in my plot, the peak 'amplitudes' are like +/- 0.5 or so. And, this is a nice clean recording. So, let's mess with it. Let's add some noise! You could try something like:
+```
+y2=y+rand(size(y))*.2-0.1;
+```
+In that, I am creating some random numbers between 0 and 0.2, and I then shift them to be between -0.1 and 0.1. Feel free to experiment with these numbers. Use 0.4 and 0.2 instead. After you do this, try
+```
+soundsc(y2,fs)
+```
+You SHOULD hear some really crackly version of the recording. This is a classic audio engineering problem. Noise, and how can we remove it from a recording.
+Ok, so can you now figure out some simple ways to try and 'recover' the original recording? Play around with settings..how to smooth and how much to smooth?! Good luck.
