@@ -33,5 +33,9 @@ xlabel('t');ylabel('z1 and z2');legend('z1 = theta','z2 = d(theta)/dt')
 function zprime=pendulum2(t,z,p);
 g=p(1);
 L=p(2);
+<<<<<<< HEAD
+=======
+z
+>>>>>>> 4328f5ed44273a99a3b9403fda3b42ce34aba8be
 zprime=[z(2); -g*L*z(1)];
 end
