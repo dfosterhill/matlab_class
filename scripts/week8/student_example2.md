@@ -4,7 +4,7 @@ Ok, let's try something fun. First, I want you to use your phone to make an audi
 2. After stopping the recording, touch the circle at right with the three dots. 
 3. Touch the 'share' option and you can email it to yourself. If you are working on your own laptop, you can airdrop it. It should be an .m4a file.
 4. If you are an Android user, I have no idea, sorry.  :)
-5. If this does not work for you, no worries, you can use the supplied .m4a file in the class notes for this week.
+5. If this does not work for you, no worries, you can use the [supplied .m4a file](recording.m4a) in the class notes for this week.
 
 Next, try to load the recording into Matlab. You can do this with something like
 ```
