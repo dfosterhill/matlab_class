@@ -3,6 +3,6 @@ This week, we are talking about data. Imagine that we have a bunch of observatio
 
 In addition, we may have data which is complex, or noisy, and we might wish to do some filtering of the data in order to help us better focus on the portion of the data that is most relevant to us. 
 
-So, let's start with this live script, which will direct us to a few simple in-class examples along the way.
+So, let's start with [this live script](class8.mlx), which will direct us to a few simple in-class examples along the way.
 
 

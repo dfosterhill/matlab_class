@@ -45,6 +45,6 @@ OSU has policies regarding what is considered academic misconduct. Since these p
 5. [Ooooo....pretty graphics](scripts/week5/readme.md)
 6. [Curve fitting and parameter estimation](scripts/week6/readme.md)
 7. [Techniques for solving differential equations (numerically)](scripts/week7/readme.md)
-8. Time series analysis, detrending, outlier detection, filtering
+8. [Time series analysis, detrending, outlier detection, filtering](scripts/week8/readme.md)
 9. Mapping stuff, projections, etc.
 10. NetCDF, metadata, code version control, etc.
