@@ -7,12 +7,12 @@ clc
 data=gevrnd(0,10,1,[1000,1]);
 
 %visualize the data
-figure(1)
+figure
 hist(data,100);
 title('Histogram of random numbers')
 
 %Use MAD option
-figure(2)
+figure
 plot(data,'.');
 hold on
 tmp=data;
@@ -22,7 +22,7 @@ legend('Full dataset','Surviving points')
 title('Default method in isoutlier')
 
 %Use mean option
-figure(3)
+figure
 plot(data,'.');
 hold on
 tmp=data;
@@ -32,7 +32,7 @@ legend('Full dataset','Surviving points')
 title('Mean method in isoutlier')
 
 %Use quartiles option
-figure(4)
+figure
 plot(data,'.');
 hold on
 tmp=data;
@@ -42,7 +42,7 @@ legend('Full dataset','Surviving points')
 title('Quartiles method in isoutlier')
 
 %Use percentiles option
-figure(5)
+figure
 plot(data,'.');
 hold on
 tmp=data;
