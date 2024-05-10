@@ -65,14 +65,11 @@ This course will provide an introduction to the numerical computing and graphics
 5. [Online help – Matlab Central](http://www.mathworks.com/matlabcentral/)
 6. Demos – Online or at the command prompt.
 
-**Academic Misconduct**
-OSU has policies regarding what is considered academic misconduct. Since these policies are frequently updated, you should review them on a term-by-term basis at http://studentlife.oregonstate.edu/studentconduct/offenses-0. The biggest problem I run into is that students copy code from a classmate or they find solutions from a previous year and they pass off that work as their own. Please do not do this, as you don't learn anything that way.
-
-**How to Get Help**
-* Ask your friends (or others)
-* Online help – Matlab Central (http://www.mathworks.com/matlabcentral/) is a great place to start.
-* Demos – Online or at the command prompt.
-* Texts
-* Ask me
+**Compulsory Univeristy Course Statements**
+1. All students are subject to the registration and refund deadlines as stated in the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar)
+2. Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or [online](http://ds.oregonstate.edu). DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
+3. [Student Conduct Expectations](https://beav.es/codeofconduct)
+4. OSU has twelve established [student rights](https://asosu.oregonstate.edu/advocacy/rights). They include due process in all university disciplinary processes, an equal opportunity to learn, and grading in accordance with the course syllabus.
+5. University students encounter setbacks from time to time. If you encounter difficulties and need assistance, it’s important to reach out. Consider discussing the situation with an instructor or academic advisor. Learn about [resources](https://counseling.oregonstate.edu/reach-out-success) that assist with wellness and academic success. If you are in immediate crisis, please contact the Crisis Text Line by texting OREGON to 741-741 or call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
 
 
