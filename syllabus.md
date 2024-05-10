@@ -48,7 +48,10 @@ This course will provide an introduction to the numerical computing and graphics
 2. You may discuss your assignments with others and work through common issues in a group, but you must hand in your own original work. Passing off someone else’s code as yours is academic misconduct. And, you don’t learn much that way. So, put in your own work, please and ask for help!
 3. Assignments are due at the start of the next class.
 4. Grading Breakdown
-  1. test
+    1. test
+    2. trst
+  
+
 
 
 **Learning Resources**
