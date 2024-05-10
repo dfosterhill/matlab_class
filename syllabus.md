@@ -48,21 +48,22 @@ This course will provide an introduction to the numerical computing and graphics
 2. You may discuss your assignments with others and work through common issues in a group, but you must hand in your own original work. Passing off someone else’s code as yours is academic misconduct. And, you don’t learn much that way. So, put in your own work, please and ask for help!
 3. Assignments are due at the start of the next class.
 4. Grading Breakdown
-    1. test
-    2. trst
+    1. 92 - 100 A
+    2. 90 - 92 A-
+    3. 88 - 90 B+
+    4. 82 - 88 B
+    5. 80 - 82 B-
+    6. 70 - 80 C
+    7. 60 - 70 D
+    8. 0 - 60 F
   
-
-
-
 **Learning Resources**
-* Numerous eBooks from the OSU Library (pick eBooks, search for MATLAB). Read on line or 28-day download.
-* Online documentation and movies are extensive and excellent
-* Tons of actual books, should you want a hard copy reference
-* Ask your friends (or others)
-* Online help – Matlab Central (http://www.mathworks.com/matlabcentral/) is a great place to start.
-* Demos – Online or at the command prompt.
-* Texts
-* Ask me 
+1. Numerous eBooks from the OSU Library (pick eBooks, search for MATLAB). Read on line or 28-day download.
+2. Online documentation and movies are extensive and excellent
+3. Tons of actual books, should you want a hard copy reference
+4. Ask your friends (or me, or anyone else)
+5. [Online help – Matlab Central](http://www.mathworks.com/matlabcentral/)
+6. Demos – Online or at the command prompt.
 
 **Academic Misconduct**
 OSU has policies regarding what is considered academic misconduct. Since these policies are frequently updated, you should review them on a term-by-term basis at http://studentlife.oregonstate.edu/studentconduct/offenses-0. The biggest problem I run into is that students copy code from a classmate or they find solutions from a previous year and they pass off that work as their own. Please do not do this, as you don't learn anything that way.
