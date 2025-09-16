@@ -12,7 +12,7 @@
 
 *Class Location - 241 Owen Hall*
 
-*Office Hours - TH 10:00 - 11:30 am.* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
+*Office Hours - TH 10:00 - 11:30 am (or by appt.).* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
 
 **Prerequisites**
 None.
