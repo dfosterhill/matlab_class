@@ -65,6 +65,13 @@ This course will provide an introduction to the numerical computing and graphics
 5. [Online help – Matlab Central](http://www.mathworks.com/matlabcentral/)
 6. Demos – Online or at the command prompt.
 
+**AI Policy**
+AI is reshaping computer programming at a dizzying rate. It is essential that you learn and understand the elements of programming, however. Why? Well, AI can often handle simple programming tasks and save you a lot of time. However, it often breaks with more complex requests. The ideal scenario is a _blend_ where you learn to use AI tools to simplify and speed up your work, but you become an expert in the coding language itself so that you can solve and debug complex problems.
+
+When it comes to assignments for this term, I encourage you to explore the use of AI tools. However, you will generally find them to be _incomplete_ and you will need to add your own expertise and knowledge. When you submit assignments, you need to include comments at the top of each assignment that summarize to me how you used AI to help complete your assignment.
+
+If you want to get started exploring resources for this, I suggest you start [here](https://technology.oregonstate.edu/services/copilot).
+
 **Compulsory Univeristy Course Statements**
 1. All students are subject to the registration and refund deadlines as stated in the [Academic Calendar](https://registrar.oregonstate.edu/osu-academic-calendar)
 2. Accommodations for students with disabilities are determined and approved by Disability Access Services (DAS). If you, as a student, believe you are eligible for accommodations but have not obtained approval please contact DAS immediately at 541-737-4098 or [online](http://ds.oregonstate.edu). DAS notifies students and faculty members of approved academic accommodations and coordinates implementation of those accommodations. While not required, students and faculty members are encouraged to discuss details of the implementation of individual accommodations.
