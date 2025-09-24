@@ -66,6 +66,7 @@ This course will provide an introduction to the numerical computing and graphics
 6. Demos – Online or at the command prompt.
 
 **AI Policy**
+
 AI is reshaping computer programming at a dizzying rate. It is essential that you learn and understand the elements of programming, however. Why? Well, AI can often handle simple programming tasks and save you a lot of time. However, it often breaks with more complex requests. The ideal scenario is a _blend_ where you learn to use AI tools to simplify and speed up your work, but you become an expert in the coding language itself so that you can solve and debug complex problems.
 
 When it comes to assignments for this term, I encourage you to explore the use of AI tools. However, you will generally find them to be _incomplete_ and you will need to add your own expertise and knowledge. When you submit assignments, you need to include comments at the top of each assignment that summarize to me how you used AI to help complete your assignment.
