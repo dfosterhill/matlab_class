@@ -64,6 +64,7 @@ This course will provide an introduction to the numerical computing and graphics
 4. Ask your friends (or me, or anyone else)
 5. [Online help – Matlab Central](http://www.mathworks.com/matlabcentral/)
 6. Demos – Online or at the command prompt.
+7. Numerouns [online communities](https://www.mathworks.com/matlabcentral/content/communities.html)
 
 **AI Policy**
 
