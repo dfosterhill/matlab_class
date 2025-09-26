@@ -24,7 +24,7 @@ You can take advantage of this by creating a startup file (simple text file; not
 
 *disp(‘Hello World’)*
 
-Then you would see the image below every time you launched Matlab.
+Then you would see the image below every time you launched Matlab. Bottome line...the use of a startup.m file is completely optional. It is simply something for you to be aware of. If you have some regular housekeeping tasks that you want performed, this is a way of doing them.
 
 ![hello world](https://github.com/dfosterhill/matlab_class/blob/main/images/hello_world.png) 
 
