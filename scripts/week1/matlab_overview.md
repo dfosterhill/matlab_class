@@ -34,7 +34,7 @@ So, what can you do, at any time, if you are stuck or confused? Well, you have a
 
 \> doc
 
-which will open up a help _browser_ of sorts.
+which will open up a help center or _browser_ of sorts.
 
 ![help browser](https://github.com/dfosterhill/matlab_class/blob/main/images/help_browser.png) 
 
@@ -50,17 +50,11 @@ You can similarly get help on a specific command by using the search box in the 
 
 ![help plot browser](https://github.com/dfosterhill/matlab_class/blob/main/images/help_plot_browser.png) 
 
-So, the help command is useful, but it is very narrowly focused, in that you seek help on a single function at a time. In other words, it won’t be a very good way to go about learning how to use Matlab in general. Fortunately, you can find tremendous online resources for Matlab, in the form on tutorials, user forums, user-contributed file archives, demos, and so on. Try:
+If you click on the function you want, it will expand into a rather more useful help entry, often with sample figures, and sample code examples that you can try running.
 
-\> help demo
+So, the help command is useful, but it is very narrowly focused, in that you seek help on a single function at a time. In other words, it won’t be a very good way to go about learning how to use Matlab in general. Fortunately, you can find tremendous online resources for Matlab, in the form on tutorials, user forums, user-contributed file archives, demos, and so on.
 
-and you will see that you can access demos by simply typing:
-
-\> demo
-
-![demo](https://github.com/dfosterhill/matlab_class/blob/main/images/demo.png) 
-
-Here, a great number of (official) examples are categorized. Click on the ‘Basic Matrix Operations’ one to see one. A final place for you to explore is [Matlab Central](https://www.mathworks.com/matlabcentral/).
+While you are in the help center, simply choose the examples tab at the top. Then navigate to a particular topic of interest and you can find very thorough example codes on that topic.
 
 ## Command Line Commands
 
