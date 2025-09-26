@@ -34,10 +34,7 @@ So, what can you do, at any time, if you are stuck or confused? Well, you have a
 
 \> doc
 
-
-![help](https://github.com/dfosterhill/matlab_class/blob/main/images/help.png) 
-
-If you click on the Help browser link, it will bring up a very extensive set of help pages for all of the various toolboxes in Matlab.
+which will open up a help _browser_ of sorts.
 
 ![help browser](https://github.com/dfosterhill/matlab_class/blob/main/images/help_browser.png) 
 
@@ -46,6 +43,8 @@ This is encyclopedic, but at times this can make it hard to find help on a speci
 \> help plot
 
 ![help plot](https://github.com/dfosterhill/matlab_class/blob/main/images/help_plot.png) 
+
+The help that you get here in the command window is quite thorough and will usually do the trick. However, it is simple black and white text and at times will feel a bit lacking.
 
 You can similarly get help on a specific command by using the search box in the help browser:
 
