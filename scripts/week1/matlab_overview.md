@@ -30,9 +30,9 @@ Then you would see the image below every time you launched Matlab. Bottome line.
 
 ## Getting Help
 
-So, what can you do, at any time, if you are stuck or confused? Well, you can simply type:
+So, what can you do, at any time, if you are stuck or confused? Well, you have a lot of options. First, note that the Matlab documentation is farily fluid, in terms of how you access it. This varies by version of the software. Currently, your best starting point may be to type:
 
-\> help
+\> doc
 
 
 ![help](https://github.com/dfosterhill/matlab_class/blob/main/images/help.png) 
