@@ -44,7 +44,8 @@ A_keep3=A((A(:,3)>0.5),:)
 % the rows where variable (column) 3 is greater than 0.3 and less than 0.7
 
 A
-keepVector = find(A(:,3) > 0.3 & A(:,3) <= .7)  
+keepVector = find(A(:,3) > 0.3 ...
+   & A(:,3) <= .7)  
 A_keep = A(keepVector,:)
 
 %% Concatenation

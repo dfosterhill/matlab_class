@@ -25,8 +25,8 @@
 % the _control_ drop-down box. 
 
 %define the parameters
-V = 18.6 
-theta = 76
+V = 7.8 
+theta = 31
 g = 9.81;    %gravity in SI units
 %solve for final time
 tf=2*V*sind(theta)/g;
