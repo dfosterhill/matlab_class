@@ -69,7 +69,7 @@ numberVariables = size(A,2) %2 - columns
 % So, matrices / vectors contain numeric data. Great. It is essential that 
 % we know how to access the information in a particular location. For example, 
 % we might wish to access the value in the bottom right corner. Since we 
-% just determined the size of the matrix, we can use those variables to get 
+% just determined the size of the matrix, we can use thoseA variables to get 
 % the bottom right...Or, we can use the 'end' command, which is clever and helpful.
 
 bottomright = A(numberSamples, numberVariables)   %This is a way of getting the bottom right corner
