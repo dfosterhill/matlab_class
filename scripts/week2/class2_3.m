@@ -15,6 +15,7 @@ clc
 % of alphanumeric characters. Let's try! Below, you see a string...but what 
 % is it's size, and can we access certain portions of it??
 
+
 t = 'This is a character string'
 size(t)
 t(3)
