@@ -15,3 +15,5 @@ I would very much like to encourage you to use the discussions section of Canvas
 
 **GitHub Account**
 As I will explain in Week 1, I will be administering this course more or less through GitHub. Why? GitHub is an essential tool for helping you track your codes and changes that you make to them. I highly encourage you to learn how to use GitHub as you progress through your graduate studies and beyond. Note: Git (different from GitHub) in general is a bit complex and takes some time to learn. You CAN learn to use Git via a command window / terminal window. OR...you can more or less use all of the functionality of Git and GitHub through the use of GitHub Desktop, which is a piece of software available on both Mac and PC. We will cover all of this during the first week of class. For now, please arrive at the first week of class with a GitHub account already created. Go here: https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account. 
+
+**
