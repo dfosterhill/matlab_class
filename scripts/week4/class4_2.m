@@ -84,7 +84,7 @@ home
 A
 disp('fprintf case 4')
 fid=fopen('dataout4.txt','w');
-fprintf(fid,'%8.4f%8.4f%8.4f\n',A');
+fprintf(fid,'%8.2f%8.2f%8.2f\n',A');
 fclose(fid);                 
 % What is the 8.4?? A total of 8 columns, with 4 decimal places. The other 
 % spaces are for the period, possibly a negative sign, a digit in the ones
