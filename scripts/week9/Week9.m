@@ -478,7 +478,7 @@ geolimits(latlim,lonlim);
 
 %There are various basemaps available. You MAY need to install them...
 
-%% What about gridded data in geographic coords?
+%% What about gridded data in geographic coords? --> Use matlab online for this demo
 clear all
 close all
 clc
@@ -501,8 +501,8 @@ clc
 
 elevation = wmsfind('elevation');  %this returns hits to ANY dataset containing the word elevation.
 
-gtopolayer = refine(elevation,'Foundation.GTOPO30', ...
-    'SearchField','layername')  %refine this to a specific digital elevation model (Gtopo)
+gtopolayer = refine(elevation,'GTOPO30', ...
+    'SearchField','layername');  %refine this to a specific digital elevation model (Gtopo)
 
 figure(1)
 latlim=[25 85];
@@ -511,7 +511,7 @@ ax = worldmap(latlim,lonlim);
 mstruct = gcm;
 oceanColor = [0 170 255];
 
-[elevationImage, R] = wmsread(gtopolayer,'Latlim', ...
+[elevationImage, R] = wmsread(elevation(2),'Latlim', ...
    mstruct.maplatlimit,'Lonlim',mstruct.maplonlimit, ...
    'BackgroundColor',oceanColor);
 
