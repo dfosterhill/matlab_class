@@ -274,12 +274,12 @@ geoshow(ma,FaceColor="#90EE90")
 hold on
 
 %add box showing extent on inset
-latmin=latlim(1); latmax=latlim(2); lonmin=lonlim(1); lonmax=lonlim(2);
+latmin=latlim(1); latmax=latlim(2); lonmin=
 lat_corners = [latmin, latmin, latmax, latmax, latmin]; % Connects the points to form a closed shape
 lon_corners = [lonmin, lonmax, lonmax, lonmin, lonmin];
 
 % Plot the bounding box
-plotm(lat_corners, lon_corners, 'r-', 'LineWidth', 2)
+geoplot(lat_corners, lon_corners, 'r-', 'LineWidth', 2)
 
 
 %% Quantitative Analysis? 
