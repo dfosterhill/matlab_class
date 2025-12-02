@@ -1,0 +1,58 @@
+# ---------------------------------- WARNING ----------------------------------------
+# Some of the data that you have obtained from this U.S. Geological Survey database 
+# may not have received Director's approval. Any such data values are qualified
+# as provisional and are subject to revision. Provisional data are released on the
+# condition that neither the USGS nor the United States Government may be held liable
+# for any damages resulting from its use.
+#
+# Additional info: https://waterdata.usgs.gov/provisional-data-statement/
+#
+# Contact:   gs-w_waterdata_support@usgs.gov
+# retrieved: 2025-12-01 14:05:49 EST       (sdww02)
+#
+# Data for the following 1 site(s) are contained in this file
+#    USGS 14171000 MARYS RIVER NEAR PHILOMATH, OR
+# -----------------------------------------------------------------------------------
+#
+# Data provided for site 14171000
+#            TS   parameter     statistic     Description
+#        113868       00060     00003     Discharge, cubic feet per second (Mean)
+#        330428       00010     00001     Temperature, water, degrees Celsius (Maximum)
+#        330429       00010     00003     Temperature, water, degrees Celsius (Mean)
+#        330430       00010     00002     Temperature, water, degrees Celsius (Minimum)
+#
+# Data-value qualification codes included in this output:
+#     P  Provisional data subject to revision.
+# 
+agency_cd	site_no	datetime	113868_00060_00003	113868_00060_00003_cd	330428_00010_00001	330428_00010_00001_cd	330429_00010_00003	330429_00010_00003_cd	330430_00010_00002	330430_00010_00002_cd
+5s	15s	20d	14n	10s	14n	10s	14n	10s	14n	10s
+USGS	14171000	2025-11-01	57.2	P	10.5	P	9.7	P	8.8	P
+USGS	14171000	2025-11-02	114	P	10.6	P	10.3	P	9.8	P
+USGS	14171000	2025-11-03	122	P	9.8	P	9.4	P	9.2	P
+USGS	14171000	2025-11-04	150	P	10.5	P	9.8	P	9.4	P
+USGS	14171000	2025-11-05	229	P	11.1	P	10.9	P	10.5	P
+USGS	14171000	2025-11-06	391	P	11.3	P	11.2	P	11.1	P
+USGS	14171000	2025-11-07	428	P	11.3	P	10.8	P	10.5	P
+USGS	14171000	2025-11-08	279	P	10.5	P	10.0	P	9.7	P
+USGS	14171000	2025-11-09	174	P	9.7	P	9.2	P	8.9	P
+USGS	14171000	2025-11-10	128	P	9.6	P	9.1	P	8.7	P
+USGS	14171000	2025-11-11	99.2	P	10.4	P	9.9	P	9.6	P
+USGS	14171000	2025-11-12	81.5	P	11.1	P	10.7	P	10.4	P
+USGS	14171000	2025-11-13	73.2	P	11.6	P	11.3	P	11.1	P
+USGS	14171000	2025-11-14	65.5	P	11.8	P	11.5	P	11.3	P
+USGS	14171000	2025-11-15	58.1	P	12.1	P	11.8	P	11.5	P
+USGS	14171000	2025-11-16	52.3	P	11.7	P	11.4	P	11.2	P
+USGS	14171000	2025-11-17	65.3	P	11.2	P	11.0	P	10.5	P
+USGS	14171000	2025-11-18	70.2	P	10.5	P	9.4	P	8.3	P
+USGS	14171000	2025-11-19	67.9	P	8.3	P	7.5	P	7.2	P
+USGS	14171000	2025-11-20	73.1	P	7.8	P	7.5	P	7.1	P
+USGS	14171000	2025-11-21	71.5	P	7.7	P	7.4	P	7.3	P
+USGS	14171000	2025-11-22	66.7	P	7.5	P	7.4	P	7.3	P
+USGS	14171000	2025-11-23	60.1	P	7.5	P	7.4	P	7.2	P
+USGS	14171000	2025-11-24	59.4	P	7.6	P	7.3	P	7.1	P
+USGS	14171000	2025-11-25	58.4	P	7.1	P	7.0	P	6.9	P
+USGS	14171000	2025-11-26	67.5	P	7.8	P	7.4	P	7.1	P
+USGS	14171000	2025-11-27	118	P	9.0	P	8.4	P	7.8	P
+USGS	14171000	2025-11-28	197	P	9.7	P	9.4	P	9.0	P
+USGS	14171000	2025-11-29	180	P	9.4	P	8.6	P	8.2	P
+USGS	14171000	2025-11-30	151	P	8.8	P	8.5	P	8.2	P
