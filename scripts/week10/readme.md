@@ -4,7 +4,7 @@ Ok, nice work. You made it. For this week, I have a rather disconnected set of t
 
 ## Fetching Online Data
 
-A huge amount of programming for graduate school (and other) boils down to (1) obtaining data, (2) doing stuff with that data, and (3) telling a compelling story about that data, through figures and other means of communication. Let's start with [this live script](week10_ftp.mlx) that deals with grabbing data via what are called *ftp* commands.
+A huge amount of programming for graduate school (and other) boils down to (1) obtaining data, (2) doing stuff with that data, and (3) telling a compelling story about that data, through figures and other means of communication. Let's start with [this live script](week10_ftp.mlx) that deals with grabbing data from HTTPS sites via webread / websave commands.
 
 A second way of obtaining data is to pull or scrape it directly from a website. What I mean by this is pulling simple text data. Many agencies have ways through which you can query data and create a simple webpage that contains that data as ascii text. Then, you can directly save that data. Well, with Matlab, if we can figure out HOW to create an automatic query and then directly save the data, we can use a simple program to skip the web browser entirely and grab the data. This is a huge accomplishment that will save you tons of time. So, visit [this live script](week10_urlwrite.mlx) to see an example based on USGS streamflow data.
 
