@@ -263,7 +263,7 @@ geoshow(ma,FaceColor="#90EE90")
 %now, create the inset map. You need to specify WHERE you want it, and how
 %large you want it.
 
-h2 = axes(Position=[0.18 0.23 0.25 0.25]);
+h2 = axes(Position=[0.1 0.3 0.4 0.4]);
 usamap(["PA","ME"]) %this more or less sets the 'view' of the inset map
 setm(h2,"FFaceColor","w")
 plabel off
