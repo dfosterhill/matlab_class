@@ -10,9 +10,9 @@
 
 *Class Time - TU 10:00 - 11:50 am*
 
-*Class Location - 241 Owen Hall*
+*Class Location - 302 Kearney Hall*
 
-*Office Hours - TH 10:00 - 11:30 am (or by appt.).* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
+*Office Hours - By appointment (please just email me and let's find a time!).* This is a pretty on point [explanation](https://vimeo.com/270014784) of office hours...use them!
 
 **Prerequisites**
 None.
@@ -24,7 +24,7 @@ This programming class develops the competence and confidence of students in ana
 This course will provide an introduction to the numerical computing and graphics environment and programming language, MATLAB, and is intended for beginning graduate students in any discipline where manipulation of numeric data is required.  The MATLAB desktop environment will be introduced and basic programming and data analysis skills will be developed, with an emphasis on writing optimized routines to analyze data sets utilizing matrix algebra and vectorization of functions.  Basic graphics and visualization will be covered, including two-dimensional and three-dimensional graphing, contouring and movies. Additional topics covered will include metadata and code versioning. The course will emphasize hands-on computer lab experience during the lecture hours and out of class programming assignments. 
 
 **Tentative Weekly Schedule**
-1. [Introduction - Matlab desktop and environment. Also, GitHub and Slack stuff...](scripts/week1/readme.md)
+1. [Introduction - Matlab desktop and environment. Also, GitHub stuff...](scripts/week1/readme.md)
 2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts](scripts/week2/readme.md)
 3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
 4. [File input and output, ascii, binary, tables, etc.](scripts/week4/readme.md)
@@ -70,7 +70,9 @@ This course will provide an introduction to the numerical computing and graphics
 
 AI is reshaping computer programming at a dizzying rate. It is essential that you learn and understand the elements of programming, however. Why? Well, AI can often handle simple programming tasks and save you a lot of time. However, it often breaks with more complex requests. The ideal scenario is a _blend_ where you learn to use AI tools to simplify and speed up your work, but you become an expert in the coding language itself so that you can solve and debug complex problems.
 
-When it comes to assignments for this term, I encourage you to explore the use of AI tools. However, you will generally find them to be _incomplete_ and you will need to add your own expertise and knowledge. When you submit assignments, you need to include comments at the top of each assignment that summarize to me how you used AI to help complete your assignment.
+When it comes to assignments for this term, I encourage you to explore the use of AI tools. However, you will generally find them to be _incomplete_ and you will need to add your own expertise and knowledge. When you submit assignments, you need to include comments at the top of each assignment that summarize to me how you used AI to help complete your assignment. 
+
+The bottom line is that a full reliance on AI will diminish your ability to think, problem solve, and be creative. And that's unfortunate. I encourage you to struggle, work hard, and actually learn the content.
 
 If you want to get started exploring resources for this, I suggest you start [here](https://technology.oregonstate.edu/services/copilot).
 
