@@ -25,7 +25,7 @@ This course will provide an introduction to the numerical computing and graphics
 
 **Tentative Weekly Schedule**
 1. [Introduction - Matlab desktop and environment. Also, GitHub stuff...](scripts/week1/readme.md)
-2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts](scripts/week2/readme.md)
+2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts]
 3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
 4. [File input and output, ascii, binary, tables, etc.](scripts/week4/readme.md)
 5. [Ooooo....pretty graphics](scripts/week5/readme.md)
