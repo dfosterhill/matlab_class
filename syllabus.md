@@ -26,14 +26,14 @@ This course will provide an introduction to the numerical computing and graphics
 **Tentative Weekly Schedule**
 1. [Introduction - Matlab desktop and environment. Also, GitHub stuff...](scripts/week1/readme.md)
 2. [Data types and arrays, strings, cells, structures, scripts vs. live scripts]
-3. [m-files, functions, for loops, while loops, if statements, and so on](scripts/week3/readme.md)
-4. [File input and output, ascii, binary, tables, etc.](scripts/week4/readme.md)
-5. [Ooooo....pretty graphics](scripts/week5/readme.md)
-6. [Curve fitting and parameter estimation](scripts/week6/readme.md)
-7. [Techniques for solving differential equations (numerically)](scripts/week7/readme.md)
-8. [Time series analysis, detrending, outlier detection, filtering](scripts/week8/readme.md)
-9. Mapping stuff, projections, etc.
-10. [NetCDF, metadata, data acquisition, etc.](scripts/week10/readme.md)
+3. [m-files, functions, for loops, while loops, if statements, and so on]
+4. [File input and output, ascii, binary, tables, etc.]
+5. [Ooooo....pretty graphics]
+6. [Curve fitting and parameter estimation]
+7. [Techniques for solving differential equations (numerically)]
+8. [Time series analysis, detrending, outlier detection, filtering]
+9. [Mapping stuff, projections, etc.]
+10. [NetCDF, metadata, data acquisition, etc.]
 
 **Course Learning Outcomes**
 1. Recall and reproduce fundamental syntax and programming constructs, including variables, data types, operators, and basic control structures.
