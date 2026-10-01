@@ -40,9 +40,10 @@ Ok, cool. We have created a repository on our local machine. We have pushed this
 
 # How to Use GitHub for this Class
 Ok, so above you have the basics on how to use GitHub for your own personal files. Create a repo on your computer, push it to GitHub and then, periodically, as you improve your codes, be sure to push them. This will create an archive (with descriptive comments on each commit) of your files. Now, when it comes to sharing or collaborating on files, things become a bit trickier. I am not going to get fully into it here, in order to avoid confusion. There are two major options:
-1. Clone
-- item 1
-- item 2
+1. Clone - when you clone someone else's repo, you basically create a copy of it locally on your computer. This works great but it can cause conflicts if you make changes to those files. Github Desktop will see those changes, and will potentially see changes to the author's repo at Github and it may not know whose edits to accept.
+2. Fork - if you fork someone else's repo, it will make a copy of those files INTO YOUR own GitHub account. Think of this as a snapshot in time. And then, you can clone your forked repo to your own computer. Got it? So, this is ideal when you want to grab someone's codes, make a copy, and then start making your own changes. As you do so, you push and pull and you keep the files up to date in YOUR OWN forked repo. This does not in any way touch or affect the author's original repo.
+text.
+3. 
 1. Go to the [class website](https://github.com/dfosterhill/matlab_class).
 2. Copy the URL, got to GitHub Desktop and choose *File* -> *Clone Repository*.
 3. Choose the URL option, and paste in the URL you copied. 
