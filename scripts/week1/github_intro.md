@@ -39,6 +39,10 @@ Ok, cool. We have created a repository on our local machine. We have pushed this
 5. Click the *View on GitHub* button, and you will see that your account now shows the modified files.
 
 # How to Use GitHub for this Class
+Ok, so above you have the basics on how to use GitHub for your own personal files. Create a repo on your computer, push it to GitHub and then, periodically, as you improve your codes, be sure to push them. This will create an archive (with descriptive comments on each commit) of your files. Now, when it comes to sharing or collaborating on files, things become a bit trickier. I am not going to get fully into it here, in order to avoid confusion. There are two major options:
+1. Clone
+- item 1
+- item 2
 1. Go to the [class website](https://github.com/dfosterhill/matlab_class).
 2. Copy the URL, got to GitHub Desktop and choose *File* -> *Clone Repository*.
 3. Choose the URL option, and paste in the URL you copied. 
