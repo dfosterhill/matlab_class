@@ -1,0 +1,4 @@
+Sensor1  Sensor2  Sensor3
+18    760    8.6
+16.4    Error    12.0
+15.1    745    10.6

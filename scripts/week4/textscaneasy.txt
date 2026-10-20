@@ -1,0 +1,3 @@
+StationName	Lat	Lon	Temp
+stn1	44	-120.3	60.5
+stn2	38.2	-118	72
