@@ -1,0 +1,5 @@
+PRISM_CREATE_DATE: 20120711
+PRISM_DATASET: an81/
+PRISM_VERSION: 14.1-20140502-1000
+PRISM_REMARKS: This grid was developed in three steps:  (1) precipitation was initially modeled with PRISM at 30-arc-second (~800-m) resolution for each month of the year to produce the source grids listed under PRISM_FILENAME, on the date(s) listed under PRISM_CREATE_DATE; (2) these twelve 800-m grids were upscaled to 2.5-arc-minute (~4-km) resolution with a Gaussian filter; and (3) the resulting twelve 4-km grids were summed to obtain a 4-km annual precipitation grid.
+PRISM_FILENAME: cai_ppt_us_us_30s_201001_avg_30y.bil, cai_ppt_us_us_30s_201002_avg_30y.bil, cai_ppt_us_us_30s_201003_avg_30y.bil, cai_ppt_us_us_30s_201004_avg_30y.bil, cai_ppt_us_us_30s_201005_avg_30y.bil, cai_ppt_us_us_30s_201006_avg_30y.bil, cai_ppt_us_us_30s_201007_avg_30y.bil, cai_ppt_us_us_30s_201008_avg_30y.bil, cai_ppt_us_us_30s_201009_avg_30y.bil, cai_ppt_us_us_30s_201010_avg_30y.bil, cai_ppt_us_us_30s_201011_avg_30y.bil, cai_ppt_us_us_30s_201012_avg_30y.bil
