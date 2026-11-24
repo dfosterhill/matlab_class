@@ -31,8 +31,8 @@ This course will provide an introduction to the numerical computing and graphics
 5. [Ooooo....pretty graphics](scripts/week5/readme.md)
 6. [Curve fitting and parameter estimation](scripts/week6/readme.md)
 7. [Techniques for solving differential equations (numerically)](scripts/week7/readme.md)
-8. [Time series analysis, detrending, outlier detection, filtering]
-9. [Mapping stuff, projections, etc.]
+8. [Time series analysis, detrending, outlier detection, filtering](scripts/week8/readme.md)
+9. [Mapping stuff, projections, etc.](scripts/week9/readme.md)
 10. [NetCDF, metadata, data acquisition, etc.]
 
 **Course Learning Outcomes**
